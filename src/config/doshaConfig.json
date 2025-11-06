@@ -1,0 +1,495 @@
+{
+  "Body Size": {
+    "Medium": {
+      "vata": 0.481,
+      "pitta": 0.506,
+      "kapha": 0.013
+    },
+    "Slim": {
+      "vata": 0.62,
+      "pitta": 0.36,
+      "kapha": 0.02
+    },
+    "Large": {
+      "vata": 0.29,
+      "pitta": 0.323,
+      "kapha": 0.387
+    }
+  },
+  "Body Weight": {
+    "Moderate - no difficulties in gaining or losing weight": {
+      "vata": 0.472,
+      "pitta": 0.517,
+      "kapha": 0.011
+    },
+    "Low - difficulties in gaining weight": {
+      "vata": 0.622,
+      "pitta": 0.356,
+      "kapha": 0.022
+    },
+    "Heavy - difficulties in losing weight": {
+      "vata": 0.308,
+      "pitta": 0.231,
+      "kapha": 0.462
+    }
+  },
+  "Height": {
+    "Average": {
+      "vata": 0.451,
+      "pitta": 0.479,
+      "kapha": 0.07
+    },
+    "Short": {
+      "vata": 0.614,
+      "pitta": 0.368,
+      "kapha": 0.018
+    },
+    "Tall": {
+      "vata": 0.344,
+      "pitta": 0.406,
+      "kapha": 0.25
+    }
+  },
+  "Bone Structure": {
+    "Large, broad shoulders , heavy bone structure": {
+      "vata": 0.273,
+      "pitta": 0.318,
+      "kapha": 0.409
+    },
+    "Medium bone structure": {
+      "vata": 0.463,
+      "pitta": 0.5,
+      "kapha": 0.037
+    },
+    "Light, Small bones, prominent joints": {
+      "vata": 0.607,
+      "pitta": 0.357,
+      "kapha": 0.036
+    }
+  },
+  "Complexion": {
+    "White, pale, tans easily": {
+      "vata": 0.4,
+      "pitta": 0.367,
+      "kapha": 0.233
+    },
+    "Fair-skin sunburns easily": {
+      "vata": 0.481,
+      "pitta": 0.468,
+      "kapha": 0.052
+    },
+    "Dark-Complexion, tans easily": {
+      "vata": 0.547,
+      "pitta": 0.396,
+      "kapha": 0.057
+    }
+  },
+  "General feel of skin": {
+    "Dry and thin, cool to touch, rough": {
+      "vata": 0.524,
+      "pitta": 0.429,
+      "kapha": 0.048
+    },
+    "Smooth and warm, oily T-zone": {
+      "vata": 0.468,
+      "pitta": 0.468,
+      "kapha": 0.063
+    },
+    "Thick and moist/greasy, cold": {
+      "vata": 0.444,
+      "pitta": 0.222,
+      "kapha": 0.333
+    }
+  },
+  "Texture of Skin": {
+    "Dry, pigments and aging": {
+      "vata": 0.556,
+      "pitta": 0.444,
+      "kapha": 0.0
+    },
+    "Oily": {
+      "vata": 0.48,
+      "pitta": 0.41,
+      "kapha": 0.11
+    },
+    "Freckles, many moles, redness and rashes": {
+      "vata": 0.455,
+      "pitta": 0.455,
+      "kapha": 0.091
+    }
+  },
+  "Hair Color": {
+    "Black/Brown,dull": {
+      "vata": 0.5,
+      "pitta": 0.443,
+      "kapha": 0.057
+    },
+    "Red, light brown, yellow": {
+      "vata": 0.5,
+      "pitta": 0.447,
+      "kapha": 0.053
+    },
+    "Brown": {
+      "vata": 0.375,
+      "pitta": 0.25,
+      "kapha": 0.375
+    }
+  },
+  "Appearance of Hair": {
+    "Straight, oily": {
+      "vata": 0.431,
+      "pitta": 0.534,
+      "kapha": 0.034
+    },
+    "Dry, black, knotted, brittle": {
+      "vata": 0.557,
+      "pitta": 0.357,
+      "kapha": 0.086
+    },
+    "Thick, curly": {
+      "vata": 0.438,
+      "pitta": 0.375,
+      "kapha": 0.188
+    }
+  },
+  "Shape of face": {
+    "Long, angular, thin": {
+      "vata": 0.539,
+      "pitta": 0.434,
+      "kapha": 0.026
+    },
+    "Large, round, full": {
+      "vata": 0.359,
+      "pitta": 0.359,
+      "kapha": 0.282
+    },
+    "Heart-shaped, pointed chin": {
+      "vata": 0.511,
+      "pitta": 0.467,
+      "kapha": 0.022
+    }
+  },
+  "Eyes": {
+    "Medium-sized, penetrating, light-sensitive eyes": {
+      "vata": 0.453,
+      "pitta": 0.5,
+      "kapha": 0.047
+    },
+    "Small, active, darting, dark eyes": {
+      "vata": 0.533,
+      "pitta": 0.427,
+      "kapha": 0.04
+    },
+    "Big, round, beautiful, glowing eyes": {
+      "vata": 0.429,
+      "pitta": 0.19,
+      "kapha": 0.381
+    }
+  },
+  "Eyelashes": {
+    "Moderate eyelashes": {
+      "vata": 0.438,
+      "pitta": 0.487,
+      "kapha": 0.075
+    },
+    "Scanty eyelashes": {
+      "vata": 0.61,
+      "pitta": 0.373,
+      "kapha": 0.017
+    },
+    "Thick/Fused eyelashes": {
+      "vata": 0.333,
+      "pitta": 0.333,
+      "kapha": 0.333
+    }
+  },
+  "Blinking of Eyes": {
+    "Moderate Blinking": {
+      "vata": 0.457,
+      "pitta": 0.457,
+      "kapha": 0.086
+    },
+    "Excessive Blinking": {
+      "vata": 0.647,
+      "pitta": 0.324,
+      "kapha": 0.029
+    },
+    "More or less stable": {
+      "vata": 0.381,
+      "pitta": 0.429,
+      "kapha": 0.19
+    }
+  },
+  "Cheeks": {
+    "Wrinkled, Sunken": {
+      "vata": 0.607,
+      "pitta": 0.361,
+      "kapha": 0.033
+    },
+    "Smooth, Flat": {
+      "vata": 0.463,
+      "pitta": 0.507,
+      "kapha": 0.03
+    },
+    "Rounded, Plump": {
+      "vata": 0.312,
+      "pitta": 0.375,
+      "kapha": 0.312
+    }
+  },
+  "Nose": {
+    "Rounded, Large open nostrils": {
+      "vata": 0.381,
+      "pitta": 0.357,
+      "kapha": 0.262
+    },
+    "Crooked, Narrow": {
+      "vata": 0.537,
+      "pitta": 0.438,
+      "kapha": 0.025
+    },
+    "Pointed, Average": {
+      "vata": 0.5,
+      "pitta": 0.474,
+      "kapha": 0.026
+    }
+  },
+  "Teeth and gums": {
+    "Big, White, Strong teeth, Healthy gums": {
+      "vata": 0.118,
+      "pitta": 0.412,
+      "kapha": 0.471
+    },
+    "Medium-sized teeth, Reddish gums": {
+      "vata": 0.474,
+      "pitta": 0.474,
+      "kapha": 0.051
+    },
+    "Irregular, Protruding teeth, Receding gums": {
+      "vata": 0.6,
+      "pitta": 0.369,
+      "kapha": 0.031
+    }
+  },
+  "Lips": {
+    "Tight, thin, dry lips which chaps easily": {
+      "vata": 0.58,
+      "pitta": 0.362,
+      "kapha": 0.058
+    },
+    "Lips are soft, medium-sized": {
+      "vata": 0.415,
+      "pitta": 0.538,
+      "kapha": 0.046
+    },
+    "Lips are large, soft, pink, and full": {
+      "vata": 0.423,
+      "pitta": 0.308,
+      "kapha": 0.269
+    }
+  },
+  "Nails": {
+    "Thick, Oily, Smooth, Polished": {
+      "vata": 0.417,
+      "pitta": 0.444,
+      "kapha": 0.139
+    },
+    "Dry, Rough, Brittle, Break": {
+      "vata": 0.568,
+      "pitta": 0.351,
+      "kapha": 0.081
+    },
+    "Sharp, Flexible, Pink, Lustrous": {
+      "vata": 0.42,
+      "pitta": 0.52,
+      "kapha": 0.06
+    }
+  },
+  "Appetite": {
+    "Slow but steady": {
+      "vata": 0.364,
+      "pitta": 0.409,
+      "kapha": 0.227
+    },
+    "Strong, Unbearable": {
+      "vata": 0.446,
+      "pitta": 0.518,
+      "kapha": 0.036
+    },
+    "Irregular, Scanty": {
+      "vata": 0.617,
+      "pitta": 0.35,
+      "kapha": 0.033
+    }
+  },
+  "Liking tastes": {
+    "Sweet / Sour / Salty": {
+      "vata": 0.486,
+      "pitta": 0.439,
+      "kapha": 0.075
+    },
+    "Sweet / Bitter / Astringent": {
+      "vata": 0.528,
+      "pitta": 0.444,
+      "kapha": 0.028
+    },
+    "Pungent / Bitter / Astringent": {
+      "vata": 0.412,
+      "pitta": 0.294,
+      "kapha": 0.294
+    }
+  },
+  "Metabolism Type": {
+    "fast": {
+      "vata": 0.496,
+      "pitta": 0.425,
+      "kapha": 0.079
+    },
+    "moderate": {
+      "vata": 0.487,
+      "pitta": 0.414,
+      "kapha": 0.099
+    },
+    "slow": {
+      "vata": 0.477,
+      "pitta": 0.451,
+      "kapha": 0.072
+    }
+  },
+  "Climate Preference": {
+    "warm": {
+      "vata": 0.48,
+      "pitta": 0.426,
+      "kapha": 0.093
+    },
+    "cool": {
+      "vata": 0.488,
+      "pitta": 0.423,
+      "kapha": 0.089
+    },
+    "moderate": {
+      "vata": 0.497,
+      "pitta": 0.425,
+      "kapha": 0.078
+    }
+  },
+  "Stress Levels": {
+    "moderate": {
+      "vata": 0.483,
+      "pitta": 0.428,
+      "kapha": 0.089
+    },
+    "low": {
+      "vata": 0.483,
+      "pitta": 0.43,
+      "kapha": 0.087
+    },
+    "high": {
+      "vata": 0.506,
+      "pitta": 0.41,
+      "kapha": 0.084
+    }
+  },
+  "Sleep Patterns": {
+    "moderate": {
+      "vata": 0.485,
+      "pitta": 0.426,
+      "kapha": 0.089
+    },
+    "short": {
+      "vata": 0.497,
+      "pitta": 0.41,
+      "kapha": 0.092
+    },
+    "long": {
+      "vata": 0.486,
+      "pitta": 0.434,
+      "kapha": 0.08
+    }
+  },
+  "Dietary Habits": {
+    "vegan": {
+      "vata": 0.48,
+      "pitta": 0.432,
+      "kapha": 0.088
+    },
+    "vegetarian": {
+      "vata": 0.496,
+      "pitta": 0.42,
+      "kapha": 0.083
+    },
+    "omnivorous": {
+      "vata": 0.477,
+      "pitta": 0.429,
+      "kapha": 0.095
+    }
+  },
+  "Physical Activity Level": {
+    "moderate": {
+      "vata": 0.475,
+      "pitta": 0.432,
+      "kapha": 0.093
+    },
+    "sedentary": {
+      "vata": 0.495,
+      "pitta": 0.418,
+      "kapha": 0.087
+    },
+    "high": {
+      "vata": 0.51,
+      "pitta": 0.417,
+      "kapha": 0.073
+    }
+  },
+  "Water Intake": {
+    "moderate": {
+      "vata": 0.495,
+      "pitta": 0.422,
+      "kapha": 0.082
+    },
+    "high": {
+      "vata": 0.473,
+      "pitta": 0.434,
+      "kapha": 0.093
+    },
+    "low": {
+      "vata": 0.479,
+      "pitta": 0.424,
+      "kapha": 0.097
+    }
+  },
+  "Digestion Quality": {
+    "moderate": {
+      "vata": 0.485,
+      "pitta": 0.421,
+      "kapha": 0.095
+    },
+    "strong": {
+      "vata": 0.501,
+      "pitta": 0.421,
+      "kapha": 0.078
+    },
+    "weak": {
+      "vata": 0.483,
+      "pitta": 0.441,
+      "kapha": 0.077
+    }
+  },
+  "Skin Sensitivity": {
+    "sensitive": {
+      "vata": 0.485,
+      "pitta": 0.424,
+      "kapha": 0.091
+    },
+    "normal": {
+      "vata": 0.489,
+      "pitta": 0.424,
+      "kapha": 0.088
+    },
+    "insensitive": {
+      "vata": 0.488,
+      "pitta": 0.43,
+      "kapha": 0.081
+    }
+  }
+}
