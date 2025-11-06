@@ -9,7 +9,8 @@ import axios from "axios";
 /* ---------------------------
    Base URLs
    --------------------------- */
-const API_HOST = process.env.API_HOST || "http://localhost:5000";
+const API_HOST = "https://temp-2qik.onrender.com";
+
 const USER_BASE = `${API_HOST}/api/users`;
 const QUIZ_BASE = `${API_HOST}/api/quiz`;
 const RECIPE_BASE = `${API_HOST}/api/recipes`;
