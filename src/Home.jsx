@@ -269,11 +269,11 @@ export default function Home() {
           <div
             className="flex gap-8 animate-marquee"
             style={{
-              animation: "marquee 15s linear infinite",
-              width: `${displayFeedback.length * 300}px`,
+              animation: "marquee 30s linear infinite",
+              width: `${displayFeedback.length *2* 300}px`,
             }}
           >
-            {displayFeedback.map((item, idx) => (
+            {[...displayFeedback, ...displayFeedback].map((item, idx) => (
               <div
                 key={idx}
                 className="bg-white w-[280px] flex-shrink-0 p-6 rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 text-center border border-green-100"
@@ -281,7 +281,7 @@ export default function Home() {
                 <img
                   src={
                     item.img ||
-                    `https://randomuser.me/api/portraits/men/${idx + 10}.jpg`
+                    `https://randomuser.me/api/portraits/men/${(idx % displayFeedback.length) + 10}.jpg`
                   }
                   alt={item.name}
                   className="w-20 h-20 rounded-full mx-auto mb-4 object-cover border-2 border-green-400"
