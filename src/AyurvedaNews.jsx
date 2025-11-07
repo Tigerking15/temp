@@ -14,7 +14,7 @@ const AyurvedaNews = () => {
     const fetchNews = async () => {
       try {
         const res = await fetch(
-          `${process.env.API_HOST}/news`
+          `${API_BASE}/news`
         );
         const data = await res.json();
         setNews(data.articles || []);
