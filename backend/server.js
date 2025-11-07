@@ -56,6 +56,19 @@ app.get("/", (req, res) => {
   res.send("Swasthya Backend is running ✅");
 });
 
+app.get("/news", async (req, res) => {
+  try {
+    const response = await fetch(
+      "https://gnews.io/api/v4/search?q=ayurveda&lang=en&country=in&max=15&apikey=37ece5f987e3f1837665bd48c1d7fa80"
+    );
+    const data = await response.json();
+    res.json(data);
+  } catch (error) {
+    console.error("Error fetching GNews:", error);
+    res.status(500).json({ error: "Failed to fetch news" });
+  }
+});
+
 app.get("/health", (req, res) => {
   res.json({ status: "OK", message: "Backend + MongoDB working fine" });
 });

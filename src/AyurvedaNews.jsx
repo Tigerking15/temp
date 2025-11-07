@@ -14,10 +14,7 @@ const AyurvedaNews = () => {
     const fetchNews = async () => {
       try {
         const res = await fetch(
-          `https://gnews.io/api/v4/search?q=ayurveda&lang=en&country=in&max=15&apikey=37ece5f987e3f1837665bd48c1d7fa80`,{
-            method: "GET",
-            credentials: "include"
-          }
+          `${process.env.API_HOST}/news`
         );
         const data = await res.json();
         setNews(data.articles || []);
