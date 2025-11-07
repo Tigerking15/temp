@@ -14,7 +14,7 @@ const AyurvedaNews = () => {
     const fetchNews = async () => {
       try {
         const res = await fetch(
-          `${API_BASE}/news`
+          `https://temp-2qik.onrender.com/news`
         );
         const data = await res.json();
         setNews(data.articles || []);
